@@ -1,0 +1,32 @@
+export const CARDS = [
+  {
+    id: 1,
+    cuenta: "Cuenta",
+    numero: "10424667",
+    prefixAccount: "NIO",
+    prefix: "C$",
+    saldo: "38456",
+    flag: "https://flagcdn.com/w160/ni.png",
+    country: "Nicaragua",
+  },
+  {
+    id: 2,
+    cuenta: "Cuenta",
+    numero: "10424667",
+    prefixAccount: "USD",
+    prefix: "$",
+    saldo: "22380",
+    flag: "https://flagcdn.com/w160/us.png",
+    country: "USA",
+  },
+  {
+    id: 3,
+    cuenta: "Cuenta",
+    numero: "10424667",
+    prefixAccount: "USD",
+    prefix: "$",
+    saldo: "12400",
+    flag: "https://flagcdn.com/w160/us.png",
+    country: "USA",
+  },
+];
